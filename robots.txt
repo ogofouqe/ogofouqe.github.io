@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogofouqe.github.io/LxZ/sitemap_index.txt
+Sitemap: https://ogofouqe.github.io/Mvd/sitemap_index.txt
+Sitemap: https://ogofouqe.github.io/ksL/sitemap_index.txt
+Sitemap: https://ogofouqe.github.io/lbq/sitemap_index.txt
